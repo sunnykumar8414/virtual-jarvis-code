@@ -1,0 +1,6 @@
+node_modules/
+.env
+backened/node_modules/
+backened/.env
+frontened/node_modules/
+dist/
